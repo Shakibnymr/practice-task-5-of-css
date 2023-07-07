@@ -16,8 +16,4 @@ border-width: 22px;
 border-width: 30px;
 border-radius: 10px;}
 div{text-align: center;
-/* border: 50px solid aqua;} */
-#uf{ border: 20px limegreen;
-    box-shadow: 10px 10px lightcoral;
-    }
-
+ box-shadow: 10px 10px;}
